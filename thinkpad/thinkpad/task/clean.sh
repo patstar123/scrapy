@@ -1,0 +1,2 @@
+rm *.log
+rm *.csv
